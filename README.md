@@ -1,4 +1,5 @@
-# mrManiac
+<img src="https://github.com/mrManiac-uv/mrManiac-uv/assets/68333785/887903f6-22d6-4e68-bffb-669a2f4c065e" alt="Yoooooo" width="300">
+
 
 - 👋 Hi, I’m Yuvraj
 - 👀 I’m interested in techy stuff...
