@@ -2,7 +2,7 @@
   <img src="https://github.com/mrManiac-uv/mrManiac-uv/assets/68333785/887903f6-22d6-4e68-bffb-669a2f4c065e" alt="Yoooooo" width="300">
   <h1>mrManiac</h1>
 </div>
-## 
+
 <div align="center">
 
   <br>
