@@ -22,11 +22,7 @@
 
 </div>
 
-- 👋 Hi, I’m Yuvraj
-- 👀 I’m interested in techy stuff...
-- 🌱 I’m always upskilling in web develop and UX
-- 💞️ I’m looking to collaborate on software or web designs and interfaces...
-- 📫 Reach me through mail - toyuvrajgoyal@gmail.com...
+📫 Reach me through mail - toyuvrajgoyal@gmail.com
 
 
 <!---
